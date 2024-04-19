@@ -1,1 +1,1 @@
-# Scientific-Pyrthon-I
+# Scientific-Python-I
