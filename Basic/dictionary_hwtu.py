@@ -20,3 +20,5 @@ dic.get('b')
 
 val2=list(dic.keys())
 val3=list(dic.values())
+print(val2)
+print(val3)
